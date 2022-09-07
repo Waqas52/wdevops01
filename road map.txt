@@ -1,0 +1,15 @@
+infrstucture enviornment?
+
+----
+azure communication via internet 
+
+CUAC trafic between TSP.
+CUCM connecion via internet
+call manager configuration express way communication. 
+signaling TSP ??
+console environment will be on permise environment / Server azure. 
+
+console environment / server azure.
+------------------------------------
+
+Joe Doggin
